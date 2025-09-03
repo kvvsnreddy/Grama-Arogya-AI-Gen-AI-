@@ -1,17 +1,3 @@
-GramaArogya-AI/
-│
-├── README.md                # Project overview 
-├── docs/                    # Documentation, PPTs, images
-│   ├── architecture-diagram.png
-│   └── user-journey.png
-├── prototype/               # Code prototypes 
-│   ├── app.py
-│   ├── requirements.txt
-│   └── demo_notebook.ipynb
-├── datasets/                # Public health datasets 
-│   └── README.md
-├── models/                  # Trained/fine-tuned models 
-
 # 🌿 Grama Arogya+ AI
 
 > AI-Powered Rural Health & Wellness Companion – Healthcare in every villager’s pocket.  
